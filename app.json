@@ -1,6 +1,6 @@
 {
-  "name": "DemocracyOS",
-  "description": "An online space for voting on political proposals. The software aims to stimulate better arguments and come to better rulings",
+  "name": "DiasporaCD",
+  "description": "Decizii asincrone și transparente în Biroul Filialei Diaspora",
   "keywords": [
     "democracy",
     "democracyos",
@@ -31,13 +31,16 @@
       "value": "andreas.fruth@gmail.com"
     },
     "ORGANIZATION_NAME": {
-      "description": "Title of the app to be shown on the right side of the header"
+      "description": "Title of the app to be shown on the right side of the header",
+      "value": "OpenUSR"
     },
     "ORGANIZATION_URL": {
-      "description": "Link to take the user when clicks on organizationName"
+      "description": "Link to take the user when clicks on organizationName",
+      "value": "https://openusr.herokuapp.com"
     },
     "HOST": {
-      "description": "Public accessible URL to your app. For example: 'heroku-app-name.herokuapp.com'."
+      "description": "Public accessible URL to your app. For example: 'openusr.herokuapp.com'.",
+      "value":"openusr.herokuapp.com"
     },
     "PROTOCOL": {
       "value": "https",
