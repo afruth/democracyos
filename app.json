@@ -24,10 +24,11 @@
   "env": {
     "JWT_SECRET": {
       "description": "A secret key for verifying the integrity of signed cookies",
-      "generator": "secret"
+      "generator": "stbXP0DeySeqvWNUQJeF"
     },
     "STAFF": {
-      "description": "Email of the Administrator of the App, this user will be able to do the first setup."
+      "description": "Email of the Administrator of the App, this user will be able to do the first setup.",
+      "value": "andreas.fruth@gmail.com"
     },
     "ORGANIZATION_NAME": {
       "description": "Title of the app to be shown on the right side of the header"
